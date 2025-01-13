@@ -1,0 +1,14 @@
+name: cadet_workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - gitpython
+  - jupyterlab
+  - jupyter
+  - jupytext==1.16.6
+  - pre-commit
+  - cadet
+  - pip
+prefix: C:\Users\ronal\mambaforge\envs\cadet_workshop
+[0m[0m
